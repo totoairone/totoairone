@@ -14,7 +14,7 @@
 <p align="left">
 🎓 INFORMÁTICA APLICADA LA SEGURIDAD
 
-🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
+🎥 Creador de contenido con algunos años de experiencia en informatica y su integracion en la seguridad publica 📚 
 
 💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
 
@@ -101,7 +101,7 @@
 
     
     
-<a href="https://ko-fi.com/unsimpledev"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="unsimpledev" /></a>
+<a href="https://ko-fi.com/totoairone"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="unsimpledev" /></a>
   </p>
 </div>
   <br>
